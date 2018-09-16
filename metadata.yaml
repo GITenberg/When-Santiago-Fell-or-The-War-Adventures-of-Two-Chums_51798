@@ -1,0 +1,39 @@
+_repo: When-Santiago-Fell-or-The-War-Adventures-of-Two-Chums_51798
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Steward, Ray M.
+    - Bonehill, Captain Ralph
+    - Winfield, Arthur M.
+    - Bonehill, Ralph
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_issued: '2016-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51798'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish-American War, 1898 -- Juvenile fiction'
+- !lcsh 'Cuba -- History -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'United States -- History -- Juvenile fiction'
+- !lcsh 'War -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Soldiers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Guerrilla warfare -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- GITenberg
+title: When Santiago Fell; or, The War Adventures of Two Chums
+url: http://www.gutenberg.org/ebooks/51798
